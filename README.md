@@ -1,4 +1,4 @@
-1.program
+1. program
 Commands
 gedit lab1.tcl
 set ns [new Simulator]
